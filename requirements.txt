@@ -4,6 +4,10 @@ psutil
 heroku3
 requests
 tgcrypto
+pytube
+pillow
+aiohttp
+aiofiles
 ffmpeg-python
 python-dotenv
 youtube_search
